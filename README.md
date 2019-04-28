@@ -31,4 +31,10 @@
 
 ### Setosa is clearly different from other two irises in regards to petal length and petal width. This project will show how Setosa is different from other two irises visually with python codes.
 
-### First I will write codes the maximum, minumum and mean of each column and study what they are and 
+### First I will write codes the maximum, minumum and mean of each column and study what they are and gathered all these 3 values as csv file. Here is the screenshot of these values in csv file.
+
+<img width="259" alt="Screenshot 2019-04-28 at 13 08 50" src="https://user-images.githubusercontent.com/47428283/56858563-fe203a00-69b6-11e9-81d6-1bccc1c66157.png">
+
+### These codes to calculate average, minimum and max of each colums are included in each python codes. 
+
+
