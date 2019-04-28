@@ -7,4 +7,9 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv('iris.data.csv',header=None)
 
-print((np.mean(df.iloc[:149,2])),'average of petal_length') 
+#this is to print average of petal_length.
+print((np.mean(df.iloc[:150,2])),'average of petal_length') 
+
+# these to pring min and max of petal_length.
+print(min(df.iloc[:150,2]),'minimum of petal_length')
+print(max(df.iloc[:150,2]),'maximum of petal_length')
