@@ -25,4 +25,10 @@
 #####        -- Iris Versicolour 
 #####        -- Iris Virginica
 
+### Initial examination of the samples which I adapted raw data from github link above.
 
+### By just looking at the attributes of samples, 1 distinctive noticable difference can be found.
+
+### Setosa is clearly different from other two irises in regards to petal length and petal width. This project will show how Setosa is different from other two irises visually with python codes.
+
+### First I will write codes the maximum, minumum and mean of each column and study what they are and 
