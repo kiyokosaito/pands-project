@@ -45,5 +45,12 @@
 
 <img width="638" alt="Screenshot 2019-04-28 at 13 34 41" src="https://user-images.githubusercontent.com/47428283/56858760-d7fc9900-69ba-11e9-8357-2ccd80df3e25.png">
 
+### Next chart picked sepal and petal width and also python codes is adapted from the same link as above and slightly chenged the colum numbers.
+
+<img width="622" alt="Screenshot 2019-04-28 at 13 45 40" src="https://user-images.githubusercontent.com/47428283/56858863-4857ea00-69bc-11e9-8ca3-6a2bfbdfa169.png">
+
+### Next chart picked sepal length and width. Again, python codes is adapted and modified from the same link above.
+
+<img width="593" alt="Screenshot 2019-04-28 at 13 58 29" src="https://user-images.githubusercontent.com/47428283/56858942-e6987f80-69bd-11e9-8391-2bac00f59274.png">
 
 
