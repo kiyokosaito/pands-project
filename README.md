@@ -37,4 +37,4 @@
 
 ### These codes to calculate average, minimum and max of each colums are included in each python codes. 
 
-
+### As you can see, the average of 3 types of iris is about a palm size and not more than bigger than a whole hand size. 
