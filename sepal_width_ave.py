@@ -7,5 +7,6 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv('iris.data.csv',header=None)
 
-print((np.mean(df.iloc[:149,1])),'average of sepal_width') 
+print((np.mean(df.iloc[:150,1])),'average of sepal_width') 
 
+print(min(df.iloc[:150,1]),'minimum of sepal_width')
