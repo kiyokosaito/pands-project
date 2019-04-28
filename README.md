@@ -38,3 +38,12 @@
 ### These codes to calculate average, minimum and max of each colums are included in each python codes. 
 
 ### As you can see, the average of 3 types of iris is about a palm size and not more than bigger than a whole hand size. 
+
+# Scatter charts to show a distinctive noticible difference
+
+### I adapted the python codes from [link](https://ameblo.jp/cognitive-solution/entry-12265630846.html) to show the distinctive difference by choosing two attributes to show 2D chart.
+
+<img width="638" alt="Screenshot 2019-04-28 at 13 34 41" src="https://user-images.githubusercontent.com/47428283/56858760-d7fc9900-69ba-11e9-8357-2ccd80df3e25.png">
+
+
+
